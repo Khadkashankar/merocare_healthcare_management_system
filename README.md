@@ -48,4 +48,13 @@ technologies considered in developing the user interface of our web application.
 
 
 
+**to run the application**
+1. run 'composer install'
+2. Add env to project(copy .env.example)
+3. run 'php artisan key:generate'
+4. run 'npm install'
+5. run  'npm run dev'
+6. run 'php artisan migrate'
+7. run 'php artisan serve'
+
 
